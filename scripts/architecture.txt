@@ -1,0 +1,22 @@
+Local VM (Linux Mint)
+        |
+        v
+Python Monitoring Script (autoscale.py)
+        |
+        v
+Checks CPU and Memory Usage
+        |
+        v
+If usage > 75%
+        |
+        v
+Trigger Scaling to GCP
+        |
+        v
+Create New GCP VM Instance
+        |
+        v
+Deploy NGINX Sample Application
+        |
+        v
+Access Web Page using External IP
