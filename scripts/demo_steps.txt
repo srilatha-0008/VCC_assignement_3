@@ -1,0 +1,14 @@
+1. Show local Linux Mint VM.
+2. Show installed Prometheus and Node Exporter.
+3. Show autoscale.py monitoring script.
+4. Run python3 autoscale.py
+5. Run stress_test.py or memory_test.py
+6. Show threshold exceeded message.
+7. Explain that new VM is created in GCP.
+8. Open GCP Console and show hybrid-gcp-vm.
+9. SSH into GCP VM.
+10. Show NGINX installed and running.
+11. Open external IP in browser.
+12. Show Welcome to nginx page.
+13. Explain architecture diagram.
+14. Explain GitHub repository files.
